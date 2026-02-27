@@ -32,3 +32,20 @@ README.md
 - Handled mising values (TODO)
 - Converted incorrect data types (TODO)
 - Standardized inconsitednt categorical values (TODO)
+- Removed invalid records (TODO)
+- Investigated and handled outliers where appropriate
+
+---
+### Step 3: Analysis
+We answered the six assigned analytical questions by:
+
+- Performin group analysis
+- Calculating statistics (mean, median, standard deviation)
+- Computing correlations between variables
+- Creating calculated metrics where needed
+- Applying statistical tests when appropriate
+
+**Answering Structure**:
+- The question statement
+- Code implementation
+- Results
